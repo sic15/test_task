@@ -24,8 +24,8 @@
 1) Клонировать репозиторий и перейти в него в командной строке:
 git clone git@github.com:sic15/test_task.git
 
-Перейти в папку yatube_api:
-cd catalog
+Перейти в папку catalog:
+cd test_task/catalog/
 
 Cоздать и активировать виртуальное окружение:
 python -m venv venv 
